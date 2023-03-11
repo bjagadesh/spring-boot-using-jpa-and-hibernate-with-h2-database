@@ -1,0 +1,44 @@
+[
+    {
+        "test_case_name_enum": "com.example.song.SmokeTest.contextLoads"
+    },
+    {
+        "test_case_name_enum": "com.example.song.SongControllerTests.testgetSongs"
+    },
+    {
+        "test_case_name_enum": "com.example.song.SongControllerTests.testGetNotFound"
+    },
+    {
+        "test_case_name_enum": "com.example.song.SongControllerTests.testGetSongById"
+    },
+    {
+        "test_case_name_enum": "com.example.song.SongControllerTests.testPostSong"
+    },
+    {
+        "test_case_name_enum": "com.example.song.SongControllerTests.testAfterPost"
+    },
+    {
+        "test_case_name_enum": "com.example.song.SongControllerTests.testDbAfterPost"
+    },
+    {
+        "test_case_name_enum": "com.example.song.SongControllerTests.testPutNotFound"
+    },
+    {
+        "test_case_name_enum": "com.example.song.SongControllerTests.testPutSong"
+    },
+    {
+        "test_case_name_enum": "com.example.song.SongControllerTests.testAfterPut"
+    },
+    {
+        "test_case_name_enum": "com.example.song.SongControllerTests.testDbAfterPut"
+    },
+    {
+        "test_case_name_enum": "com.example.song.SongControllerTests.testDeleteNotFound"
+    },
+    {
+        "test_case_name_enum": "com.example.song.SongControllerTests.testDeleteSong"
+    },
+    {
+        "test_case_name_enum": "com.example.song.SongControllerTests.testAfterDelete"
+    }
+]
